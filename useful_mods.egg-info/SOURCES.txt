@@ -1,0 +1,9 @@
+setup.py
+useful_mods/__init__.py
+useful_mods/calcfuncs.py
+useful_mods/utilfuncs.py
+useful_mods.egg-info/PKG-INFO
+useful_mods.egg-info/SOURCES.txt
+useful_mods.egg-info/dependency_links.txt
+useful_mods.egg-info/requires.txt
+useful_mods.egg-info/top_level.txt

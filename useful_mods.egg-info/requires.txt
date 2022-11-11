@@ -1,0 +1,7 @@
+numpy
+keras
+matplotlib
+tk
+pyaudio
+sounddevice
+tensorflow
